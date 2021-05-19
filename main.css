@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(8, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+    color: seagreen;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 1px solid navy;
+}
+.nav img{
+    width: 200px;
+    height: 100px;
+}
+.wrapper{
+    margin: 2px;
+}
+
+.intro{
+    text-align: center;
+    border: 5px dotted red;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    padding: 20px 20px 20px 20px;
+}
+#intro1{
+    height: 40px;
+    color: red;
+    background: green;
+    font-weight: bold;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.Fav{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.City{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    border: 1px double red;
+}
+.City img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.Culture img{
+    width: 300px;
+    height: 300px;
+}
